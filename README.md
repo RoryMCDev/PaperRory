@@ -1,7 +1,7 @@
-Paper ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)
+Rory ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)
 ===========
 
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
+High performance Paper fork that aims to fix Paper's various issues.
 
 
 **Support and Project Discussion:**
@@ -10,11 +10,11 @@ High performance Spigot fork that aims to fix gameplay and mechanics inconsisten
 
 How To (Server Admins)
 ------
-Paperclip is a jar file that you can download and run just like a normal jar file.
+PaperRory is a jar file that you can download and run just like a normal jar file.
 
-Download Paper from our [downloads page](https://papermc.io/downloads).
+Download PaperRory from our [downloads page](https://github.com/RoryMCDev/PaperRory/releases).
 
-Run the Paperclip jar directly from your server. Just like old times
+Run the PaperRory jar directly from your server. Just like old times
 
   * Documentation on using Paper: [paper.readthedocs.io](https://paper.readthedocs.io/)
   * For a sneak peak on upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
